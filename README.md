@@ -13,31 +13,31 @@
 <table align="center">
     <tr>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/react.jpeg" width="65px"/>
+            <img src="./assets/icons/react.jpg" width="65px"/>
             <br /> React
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/Express.png" width="65px"/>
+            <img src="./assets/icons/express.jpg" width="65px"/>
             <br /> Express
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/Python.png" width="65px"/>
+            <img src="./assets/icons/python.jpg" width="65px"/>
             <br /> Python
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/Colab.png" width="65px"/>
+            <img src="./assets/icons/colab.jpg" width="65px"/>
             <br /> Google Colab
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/svelte.png" width="65px"/>
+            <img src="./assets/icons/svelte.jpg" width="65px"/>
             <br /> Svelte
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/java.png" width="65px"/>
+            <img src="./assets/icons/java.jpg" width="65px"/>
             <br /> Java
         </td>
         <td align="center" width="140" height="112.43">
-            <img src="./assets/icons/cpp.png" width="65px"/>
+            <img src="./assets/icons/cpp.jpg" width="65px"/>
             <br /> C++
         </td>
     </tr>
