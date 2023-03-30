@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Claim Portal for IEEE Bombay Section.
+- 🌱 I’m currently learning React and Express.js
+- 👯 I’m looking to collaborate on Full Stack Web Development Projects
+- 🤔 I’m looking for help with NLP 
